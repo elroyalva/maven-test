@@ -85,7 +85,7 @@
         <repository>
           <id>github</id>
           <name>Github Packages</name>
-          <url>https://maven.pkg.github.com/elroyalva/maven-test</url>
+          <url>https://maven.pkg.github.com/elroyalva/maven-platform</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
